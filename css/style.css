@@ -1904,6 +1904,17 @@ a:focus {
     opacity: 0.92;
 }
 
+.hero .hero-name {
+    margin-bottom: 8px !important;
+    font-size: 22px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.2px;
+}
+
+.hero .hero-text h1 {
+    font-size: 52px;
+}
+
 .hero .hero-lead {
     max-width: 540px;
     margin-top: 18px;
@@ -1911,6 +1922,19 @@ a:focus {
     font-weight: 500;
     line-height: 1.7;
     color: rgba(255, 255, 255, 0.92);
+}
+
+.hero .hero-image {
+    text-align: center;
+    padding: 20px 20px 40px;
+}
+
+@media (min-width: 768px) {
+    .hero .hero-image {
+        text-align: right;
+        padding-right: 75px;
+        padding-bottom: 0;
+    }
 }
 
 .btn-outline-brand {

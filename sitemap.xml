@@ -1,15 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://muhammadsaad873.github.io/portfolio/</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://muhammadsaad873.github.io/portfolio/index.html</loc>
-    <lastmod>2026-11-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/og-profile.jpg</image:loc>
+      <image:title>Muhammad Saad Shopify Developer in Karachi Pakistan</image:title>
+      <image:caption>Profile photo of Muhammad Saad, Shopify Developer specializing in Shopify Liquid and custom themes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/saad.png</image:loc>
+      <image:title>Muhammad Saad Shopify Developer Karachi</image:title>
+      <image:caption>Muhammad Saad Shopify Developer portfolio profile photo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/About.png</image:loc>
+      <image:title>About Muhammad Saad Shopify Developer</image:title>
+      <image:caption>About section image for Muhammad Saad Shopify and WordPress developer</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/Wordpress%20Website%201.jpg</image:loc>
+      <image:title>ThePropPit WordPress Trading Platform</image:title>
+      <image:caption>WordPress proprietary trading website project by Muhammad Saad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/Wordpress%20Website%202.jpg</image:loc>
+      <image:title>Teera Nonprofit WordPress Website</image:title>
+      <image:caption>Teera nonprofit WordPress website by Muhammad Saad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/Wordpress%20Website%203.jpg</image:loc>
+      <image:title>Author Book Landing Page WordPress</image:title>
+      <image:caption>Author book marketing WordPress landing page by Muhammad Saad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/Wordpress%20Website%204.jpg</image:loc>
+      <image:title>Music City Street Eats WordPress</image:title>
+      <image:caption>Food truck and pizza WordPress website by Muhammad Saad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/Wordpress%20Website%205.jpg</image:loc>
+      <image:title>Congelbury Family Dental WordPress</image:title>
+      <image:caption>Dental clinic WordPress website by Muhammad Saad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/Wordpress%20Website%206.jpg</image:loc>
+      <image:title>Grove Case Uncovered WordPress Blog</image:title>
+      <image:caption>Legal documentation WordPress blog by Muhammad Saad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/Wordpress%20Website%207.jpg</image:loc>
+      <image:title>SLB Media Real Estate WordPress</image:title>
+      <image:caption>Real estate photography WordPress website by Muhammad Saad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/Wordpress%20Website%208.jpg</image:loc>
+      <image:title>Comfy Cozy Kidz Ecommerce WordPress</image:title>
+      <image:caption>Kids furniture ecommerce WordPress store by Muhammad Saad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/Wordpress%20Website%209.jpg</image:loc>
+      <image:title>Raw and Uncut Podcast WordPress</image:title>
+      <image:caption>Mental health podcast WordPress website by Muhammad Saad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/Wordpress%20Website%2010.jpg</image:loc>
+      <image:title>Thought Shift Therapy WordPress</image:title>
+      <image:caption>Therapy counseling WordPress website by Muhammad Saad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/Wordpress%20Website%2011.jpg</image:loc>
+      <image:title>Sauda Security WordPress Website</image:title>
+      <image:caption>Bilingual security company WordPress website by Muhammad Saad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/Wordpress%20Website%2012.jpg</image:loc>
+      <image:title>Seventh Global Real Estate WordPress</image:title>
+      <image:caption>Real estate advisory WordPress website by Muhammad Saad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/Wordpress%20Website%2013.jpg</image:loc>
+      <image:title>URM Restaurant Media WordPress</image:title>
+      <image:caption>Restaurant industry news WordPress website by Muhammad Saad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/Shopify%20Website%201.jpg</image:loc>
+      <image:title>Captain's Warehouse Shopify Store</image:title>
+      <image:caption>Marine boating equipment Shopify store by Muhammad Saad Shopify Developer</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/Shopify%20Website%202.jpg</image:loc>
+      <image:title>Arshaa Anam Shopify Perfume Store</image:title>
+      <image:caption>Luxury Arabian perfume Shopify store by Muhammad Saad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/Shopify%20Website%203.jpg</image:loc>
+      <image:title>Ridge Equipment Shopify Store</image:title>
+      <image:caption>Equipment rental Shopify ecommerce store by Muhammad Saad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/Shopify%20Website%204.jpg</image:loc>
+      <image:title>Pardadari Modest Fashion Shopify</image:title>
+      <image:caption>Modest wear abaya and hijab Shopify store by Muhammad Saad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/Shopify%20Website%205.jpg</image:loc>
+      <image:title>LATOCCO Leather Shopify Store</image:title>
+      <image:caption>Premium leather wallets and belts Shopify store by Muhammad Saad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://muhammadsaad873.github.io/portfolio/img/Shopify%20Website%206.jpg</image:loc>
+      <image:title>Zellburi Mens Fashion Shopify</image:title>
+      <image:caption>Mens fashion Shopify ecommerce store by Muhammad Saad Shopify Developer</image:caption>
+    </image:image>
   </url>
 </urlset>

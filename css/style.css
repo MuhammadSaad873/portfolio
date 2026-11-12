@@ -966,6 +966,8 @@ a:focus {
 .portfolio .portfolio-img {
     position: relative;
     overflow: hidden;
+    height: 260px;
+    background: #e2e8f0;
 }
 
 .portfolio .portfolio-img img {
@@ -973,7 +975,8 @@ a:focus {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    transform: scale(1.1);
+    object-position: top center;
+    transform: scale(1.02);
     transition: .5s;
 }
 

@@ -1904,10 +1904,157 @@ a:focus {
     opacity: 0.92;
 }
 
+.hero .hero-lead {
+    max-width: 540px;
+    margin-top: 18px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.7;
+    color: rgba(255, 255, 255, 0.92);
+}
+
+.btn-outline-brand {
+    margin-left: 10px;
+    color: var(--accent) !important;
+    background: transparent !important;
+    border: 2px solid var(--accent) !important;
+    box-shadow: none !important;
+}
+
+.btn-outline-brand:hover {
+    color: #ffffff !important;
+    background: var(--accent) !important;
+}
+
+.section-sub {
+    max-width: 680px;
+    margin: 12px auto 0;
+    color: var(--text);
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+.services-section,
+.contact-section {
+    position: relative;
+    padding: 70px 0 40px;
+}
+
+.service-card {
+    height: 100%;
+    margin-bottom: 24px;
+    padding: 28px 24px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.service-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 40px rgba(13, 148, 136, 0.14);
+}
+
+.service-card i {
+    margin-bottom: 14px;
+    font-size: 28px;
+    color: var(--accent);
+}
+
+.service-card h3 {
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.service-card p {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.7;
+    color: var(--text);
+}
+
+.contact-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 16px;
+}
+
+.contact-card {
+    display: block;
+    padding: 22px 18px;
+    text-align: center;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+.contact-card:hover {
+    transform: translateY(-3px);
+    border-color: var(--accent);
+    color: var(--heading);
+}
+
+.contact-card i {
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: var(--accent);
+}
+
+.contact-card h3 {
+    margin: 0 0 6px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.contact-card p {
+    margin: 0;
+    font-size: 13px;
+    color: var(--text);
+    word-break: break-word;
+}
+
+.footer-seo-line {
+    margin: -8px 0 22px;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 14px;
+}
+
+.footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px 16px;
+    margin: 0 0 22px;
+}
+
+.footer-links a {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.footer-links a:hover {
+    color: #ffffff;
+}
+
 @media (max-width: 991.98px) {
     .about {
         margin-left: 12px;
         margin-right: 12px;
         border-radius: 18px;
+    }
+
+    .btn-outline-brand {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+    .hero .hero-lead {
+        margin-left: auto;
+        margin-right: auto;
     }
 }
